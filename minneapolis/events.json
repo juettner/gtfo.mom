@@ -1,0 +1,82 @@
+[
+  {
+    "venue_name": "Amsterdam Bar & Hall",
+    "event_name": "Vs Self",
+    "event_date": "May 1st 2025",
+    "main_artist": "Vs Self",
+    "supporting_artist": "Punxsutawney"
+  },
+  {
+    "venue_name": "First Avenue",
+    "event_name": "Tennis with Billie Marten",
+    "event_date": "May 21st 2025",
+    "main_artist": "Tennis",
+    "supporting_artist": "Billie Marten"
+  },
+  {
+    "venue_name": "Palace Theatre",
+    "event_name": "Ministry",
+    "event_date": "May 20th 2025",
+    "main_artist": "Ministry",
+    "supporting_artist": "My Life With The Thrill Kill Kult and Die Krupps"
+  },
+  {
+    "venue_name": "Surly Brewing Festival Field",
+    "event_name": "Gregory Alan Isakov",
+    "event_date": "Aug 19th 2025",
+    "main_artist": "Gregory Alan Isakov",
+    "supporting_artist": "Ocie Elliott"
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Sam MacPherson",
+    "event_date": "Apr 18th 2025",
+    "main_artist": "Sam MacPherson"
+  },
+  {
+    "venue_name": "Fine Line",
+    "event_name": "Solo Dragon Tour",
+    "event_date": "Sep 10th 2025",
+    "main_artist": "Marcin"
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Horsegirl",
+    "event_date": "Aug 5th 2025",
+    "main_artist": "Horsegirl",
+    "supporting_artist": "Godcaster"
+  },
+  {
+    "venue_name": "First Avenue",
+    "event_name": "SAINt JHN",
+    "event_date": "Apr 30th 2025",
+    "main_artist": "SAINt JHN",
+    "supporting_artist": "Honey Bxby"
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Preoccupations",
+    "event_date": "Jun 1st 2025",
+    "main_artist": "Preoccupations",
+    "supporting_artist": "Still Depths"
+  },
+  {
+    "venue_name": "Turf Club",
+    "event_name": "L.A. Witch",
+    "event_date": "Apr 29th 2025",
+    "main_artist": "L.A. Witch",
+    "supporting_artist": "DAIISTAR"
+  },
+  {
+    "venue_name": "Turf Club",
+    "event_name": "Squid",
+    "event_date": "May 9th 2025",
+    "main_artist": "Squid"
+  },
+  {
+    "venue_name": "Fine Line",
+    "event_name": "iann dior",
+    "event_date": "May 11th 2025",
+    "main_artist": "iann dior"
+  }
+]
