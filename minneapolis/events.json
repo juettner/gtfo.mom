@@ -1,82 +1,686 @@
 [
   {
     "venue_name": "Amsterdam Bar & Hall",
-    "event_name": "Vs Self",
-    "event_date": "May 1st 2025",
-    "main_artist": "Vs Self",
-    "supporting_artist": "Punxsutawney"
+    "event_name": "2hollis",
+    "event_date": "2025-02-01",
+    "supporting_artist": null
   },
   {
-    "venue_name": "First Avenue",
-    "event_name": "Tennis with Billie Marten",
-    "event_date": "May 21st 2025",
-    "main_artist": "Tennis",
-    "supporting_artist": "Billie Marten"
+    "venue_name": "Fine Line",
+    "event_name": "Dylan Marlowe",
+    "event_date": "2025-02-01",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Turf Club",
+    "event_name": "Jeremie Albino",
+    "event_date": "2025-02-01",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "First Avenue_name",
+    "event_name": "Magic City Hippies",
+    "event_date": "2025-02-01",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "The Dirty Nil",
+    "event_date": "2025-02-01",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Turf Club",
+    "event_name": "Wunderhorse",
+    "event_date": "2025-02-02",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "State Theatre",
+    "event_name": "David Gray",
+    "event_date": "2025-02-03",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Fine Line",
+    "event_name": "Lauren Mayberry",
+    "event_date": "2025-02-03",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Amsterdam Bar & Hall",
+    "event_name": "Donny Benét",
+    "event_date": "2025-02-05",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Max McNown",
+    "event_date": "2025-02-05",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Max McNown",
+    "event_date": "2025-02-06",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "First Avenue_name",
+    "event_name": "Toro y Moi",
+    "event_date": "2025-02-06",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Fine Line",
+    "event_name": "Quarter Life Crisis",
+    "event_date": "2025-02-07",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "New Rocket Union",
+    "event_date": "2025-02-07",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Manias",
+    "event_date": "2025-02-07",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "The Silent Treatment",
+    "event_date": "2025-02-07",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Eleganza!",
+    "event_date": "2025-02-07",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Turf Club",
+    "event_name": "Mark Joseph & The American Soul",
+    "event_date": "2025-02-07",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Slynk",
+    "event_date": "2025-02-08",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "The Fitzgerald Theater",
+    "event_name": "Rev. William H. Pierce",
+    "event_date": "2025-02-08",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "The Fitzgerald Theater",
+    "event_name": "Jevetta Steele",
+    "event_date": "2025-02-08",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "The Fitzgerald Theater",
+    "event_name": "J. Michelle Caldwell",
+    "event_date": "2025-02-08",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "The Fitzgerald Theater",
+    "event_name": "Tonia Hughes Kendrick",
+    "event_date": "2025-02-08",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Turf Club",
+    "event_name": "God Bullies",
+    "event_date": "2025-02-08",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "First Avenue_name",
+    "event_name": "The Brothers Allmanac",
+    "event_date": "2025-02-08",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Fine Line",
+    "event_name": "Eggy",
+    "event_date": "2025-02-08",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "First Avenue_name",
+    "event_name": "070 Shake",
+    "event_date": "2025-02-09",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "The Fitzgerald Theater",
+    "event_name": "Tonia Hughes Kendrick",
+    "event_date": "2025-02-09",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "The Fitzgerald Theater",
+    "event_name": "J. Michelle Caldwell",
+    "event_date": "2025-02-09",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "The Fitzgerald Theater",
+    "event_name": "Jevetta Steele",
+    "event_date": "2025-02-09",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "The Fitzgerald Theater",
+    "event_name": "Rev. William H. Pierce",
+    "event_date": "2025-02-09",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "First Avenue_name",
+    "event_name": "070 Shake",
+    "event_date": "2025-02-09",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "First Avenue_name",
+    "event_name": "PRIVATE EVENT",
+    "event_date": "2025-02-10",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Eddie 9V",
+    "event_date": "2025-02-11",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Filthy Kittens",
+    "event_date": "2025-02-12",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Lana Leone",
+    "event_date": "2025-02-12",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Mother Soki",
+    "event_date": "2025-02-12",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "berzica",
+    "event_date": "2025-02-12",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Haze Gazer",
+    "event_date": "2025-02-13",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "bugsy",
+    "event_date": "2025-02-13",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "mouthful",
+    "event_date": "2025-02-13",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "The Fitzgerald Theater",
+    "event_name": "Uncle Acid & the Deadbeats",
+    "event_date": "2025-02-13",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Fend",
+    "event_date": "2025-02-13",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Turf Club",
+    "event_name": "Adam Bohanan",
+    "event_date": "2025-02-13",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "The Cedar Cultural Center",
+    "event_name": "Eivør",
+    "event_date": "2025-02-14",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Turf Club",
+    "event_name": "Kiss the Tiger",
+    "event_date": "2025-02-14",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Fine Line",
+    "event_name": "chappell roan",
+    "event_date": "2025-02-14",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Rachel Grae",
+    "event_date": "2025-02-14",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "First Avenue_name",
+    "event_name": "DJ Cristian Baca",
+    "event_date": "2025-02-14",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Turf Club",
+    "event_name": "Petty Treason",
+    "event_date": "2025-02-15",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Michigan Rattlers",
+    "event_date": "2025-02-15",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "First Avenue_name",
+    "event_name": "Good Kid",
+    "event_date": "2025-02-15",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "The Cedar Cultural Center",
+    "event_name": "Mustafa",
+    "event_date": "2025-02-15",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Fine Line",
+    "event_name": "Blind Pilot",
+    "event_date": "2025-02-15",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Fine Line",
+    "event_name": "Dua Saleh",
+    "event_date": "2025-02-16",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Jarv",
+    "event_date": "2025-02-16",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Jarv",
+    "event_date": "2025-02-16",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Turf Club",
+    "event_name": "Benjamin Booker",
+    "event_date": "2025-02-16",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Fine Line",
+    "event_name": "Dua Saleh",
+    "event_date": "2025-02-16",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Jordana",
+    "event_date": "2025-02-17",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Icehouse",
+    "event_name": "The Date Night Podcast",
+    "event_date": "2025-02-18",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "First Avenue_name",
+    "event_name": "A R I Z O N A",
+    "event_date": "2025-02-19",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Stephen Day",
+    "event_date": "2025-02-19",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Icehouse",
+    "event_name": "Misty Boyce",
+    "event_date": "2025-02-19",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Fine Line",
+    "event_name": "BoomBox",
+    "event_date": "2025-02-19",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Varsity Theater",
+    "event_name": "Cymande",
+    "event_date": "2025-02-19",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "First Avenue_name",
+    "event_name": "DJ Tricky Miki",
+    "event_date": "2025-02-20",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Turf Club",
+    "event_name": "OISTER BOY",
+    "event_date": "2025-02-20",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Skinny Lister",
+    "event_date": "2025-02-20",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Varsity Theater",
+    "event_name": "Make Them Suffer",
+    "event_date": "2025-02-20",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Icehouse",
+    "event_name": "Satsang",
+    "event_date": "2025-02-20",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "First Avenue_name",
+    "event_name": "DJ Tricky Miki",
+    "event_date": "2025-02-20",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Fine Line",
+    "event_name": "Jamie Miller",
+    "event_date": "2025-02-20",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Manplanet",
+    "event_date": "2025-02-21",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Fine Line",
+    "event_name": "Broadway Rave",
+    "event_date": "2025-02-21",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Turf Club",
+    "event_name": "UltraBomb",
+    "event_date": "2025-02-21",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "First Avenue_name",
+    "event_name": "Muscadine Bloodline",
+    "event_date": "2025-02-21",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Varsity Theater",
+    "event_name": "David Shaw",
+    "event_date": "2025-02-21",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Icehouse",
+    "event_name": "Erik Koskinen",
+    "event_date": "2025-02-21",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "The Fitzgerald Theater",
+    "event_name": "Joni Mitchell",
+    "event_date": "2025-02-22",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "First Avenue_name",
+    "event_name": "Molchat Doma",
+    "event_date": "2025-02-22",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "The Fitzgerald Theater",
+    "event_name": "Tom Petty and the Heartbreakers",
+    "event_date": "2025-02-22",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Fine Line",
+    "event_name": "DJ Jake Rudh",
+    "event_date": "2025-02-22",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "The Fitzgerald Theater",
+    "event_name": "Crosby, Stills, Nash, & Young",
+    "event_date": "2025-02-22",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Turf Club",
+    "event_name": "Ron Pope",
+    "event_date": "2025-02-22",
+    "supporting_artist": null
   },
   {
     "venue_name": "Palace Theatre",
-    "event_name": "Ministry",
-    "event_date": "May 20th 2025",
-    "main_artist": "Ministry",
-    "supporting_artist": "My Life With The Thrill Kill Kult and Die Krupps"
+    "event_name": "Spin Doctors",
+    "event_date": "2025-02-22",
+    "supporting_artist": null
   },
   {
-    "venue_name": "Surly Brewing Festival Field",
-    "event_name": "Gregory Alan Isakov",
-    "event_date": "Aug 19th 2025",
-    "main_artist": "Gregory Alan Isakov",
-    "supporting_artist": "Ocie Elliott"
-  },
-  {
-    "venue_name": "7th St Entry",
-    "event_name": "Sam MacPherson",
-    "event_date": "Apr 18th 2025",
-    "main_artist": "Sam MacPherson"
-  },
-  {
-    "venue_name": "Fine Line",
-    "event_name": "Solo Dragon Tour",
-    "event_date": "Sep 10th 2025",
-    "main_artist": "Marcin"
+    "venue_name": "Varsity Theater",
+    "event_name": "Tinzo + Jojo",
+    "event_date": "2025-02-22",
+    "supporting_artist": null
   },
   {
     "venue_name": "7th St Entry",
-    "event_name": "Horsegirl",
-    "event_date": "Aug 5th 2025",
-    "main_artist": "Horsegirl",
-    "supporting_artist": "Godcaster"
+    "event_name": "Ax and the Hatchetmen",
+    "event_date": "2025-02-22",
+    "supporting_artist": null
   },
   {
-    "venue_name": "First Avenue",
-    "event_name": "SAINt JHN",
-    "event_date": "Apr 30th 2025",
-    "main_artist": "SAINt JHN",
-    "supporting_artist": "Honey Bxby"
+    "venue_name": "Icehouse",
+    "event_name": "Poetic Roots",
+    "event_date": "2025-02-22",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Icehouse",
+    "event_name": "Ryan Picone Quartet",
+    "event_date": "2025-02-22",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Icehouse",
+    "event_name": "Darnell Davis",
+    "event_date": "2025-02-23",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "The Fitzgerald Theater",
+    "event_name": "Pink Sweat$",
+    "event_date": "2025-02-23",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Amsterdam Bar & Hall",
+    "event_name": "Kxllswxtch",
+    "event_date": "2025-02-23",
+    "supporting_artist": null
   },
   {
     "venue_name": "7th St Entry",
-    "event_name": "Preoccupations",
-    "event_date": "Jun 1st 2025",
-    "main_artist": "Preoccupations",
-    "supporting_artist": "Still Depths"
+    "event_name": "Kelsy Karter & The Heroines",
+    "event_date": "2025-02-23",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Icehouse",
+    "event_name": "Pat Keen",
+    "event_date": "2025-02-23",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Icehouse",
+    "event_name": "Babe Corner",
+    "event_date": "2025-02-24",
+    "supporting_artist": null
   },
   {
     "venue_name": "Turf Club",
-    "event_name": "L.A. Witch",
-    "event_date": "Apr 29th 2025",
-    "main_artist": "L.A. Witch",
-    "supporting_artist": "DAIISTAR"
+    "event_name": "Comeback Kid",
+    "event_date": "2025-02-24",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Post Sex Nachos",
+    "event_date": "2025-02-25",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Icehouse",
+    "event_name": "SoulFlower",
+    "event_date": "2025-02-26",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "The Fitzgerald Theater",
+    "event_name": "The High Kings",
+    "event_date": "2025-02-26",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Varsity Theater",
+    "event_name": "THUY",
+    "event_date": "2025-02-26",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Nina Luna",
+    "event_date": "2025-02-26",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Icehouse",
+    "event_name": "Atim Opoka",
+    "event_date": "2025-02-27",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Varsity Theater",
+    "event_name": "LANCO",
+    "event_date": "2025-02-27",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "First Avenue_name",
+    "event_name": "Papa Mbye",
+    "event_date": "2025-02-27",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "First Avenue_name",
+    "event_name": "Poliça",
+    "event_date": "2025-02-27",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Blockhead",
+    "event_date": "2025-02-27",
+    "supporting_artist": null
   },
   {
     "venue_name": "Turf Club",
-    "event_name": "Squid",
-    "event_date": "May 9th 2025",
-    "main_artist": "Squid"
+    "event_name": "Townes Van Zandt (Barron, McKinney, and Dunn) • Waylon Jennings (Cole Diamond) • Emmylou Harris (Molly Brandt) • Keith Whitley (Thomas Sticha)",
+    "event_date": "2025-02-27",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Turf Club",
+    "event_name": "Pert Near Sandstone",
+    "event_date": "2025-02-28",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "7th St Entry",
+    "event_name": "Fink",
+    "event_date": "2025-02-28",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Amsterdam Bar & Hall",
+    "event_name": "MISSIO",
+    "event_date": "2025-02-28",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Icehouse",
+    "event_name": "Erik Koskinen",
+    "event_date": "2025-02-28",
+    "supporting_artist": null
   },
   {
     "venue_name": "Fine Line",
-    "event_name": "iann dior",
-    "event_date": "May 11th 2025",
-    "main_artist": "iann dior"
+    "event_name": "Emo Nite LA",
+    "event_date": "2025-02-28",
+    "supporting_artist": null
+  },
+  {
+    "venue_name": "Varsity Theater",
+    "event_name": "Hulvey",
+    "event_date": "2025-02-28",
+    "supporting_artist": null
   }
 ]
